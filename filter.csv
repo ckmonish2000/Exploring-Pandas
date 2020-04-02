@@ -1,0 +1,135 @@
+,#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary,Total2
+9,7,Squirtle,Water,,314,44,48,65,50,64,43,1,False,585
+10,8,Wartortle,Water,,405,59,63,80,65,80,58,1,False,752
+11,9,Blastoise,Water,,530,79,83,100,85,105,78,1,False,982
+12,9,BlastoiseMega Blastoise,Water,,630,79,103,120,135,115,78,1,False,1182
+51,46,Paras,Bug,Grass,285,35,70,55,45,55,25,1,False,545
+52,47,Parasect,Bug,Grass,405,60,95,80,60,80,30,1,False,780
+59,54,Psyduck,Water,,320,50,52,48,65,50,55,1,False,585
+60,55,Golduck,Water,,500,80,82,78,95,80,85,1,False,915
+65,60,Poliwag,Water,,300,40,50,40,40,40,90,1,False,510
+66,61,Poliwhirl,Water,,385,65,65,65,50,50,90,1,False,680
+67,62,Poliwrath,Water,Fighting,510,90,95,95,70,90,70,1,False,950
+78,72,Tentacool,Water,Poison,335,40,40,35,50,100,70,1,False,600
+79,73,Tentacruel,Water,Poison,515,80,70,65,80,120,100,1,False,930
+85,79,Slowpoke,Water,Psychic,315,90,65,65,40,40,15,1,False,615
+86,80,Slowbro,Water,Psychic,490,95,75,110,100,80,30,1,False,950
+87,80,SlowbroMega Slowbro,Water,Psychic,590,95,75,180,130,80,30,1,False,1150
+93,86,Seel,Water,,325,65,45,55,45,70,45,1,False,605
+94,87,Dewgong,Water,Ice,475,90,70,80,70,95,70,1,False,880
+97,90,Shellder,Water,,305,30,65,100,45,25,40,1,False,570
+98,91,Cloyster,Water,Ice,525,50,95,180,85,45,70,1,False,980
+106,98,Krabby,Water,,325,30,105,90,25,25,50,1,False,600
+107,99,Kingler,Water,,475,55,130,115,50,50,75,1,False,875
+125,116,Horsea,Water,,295,30,40,70,70,25,60,1,False,530
+126,117,Seadra,Water,,440,55,65,95,95,45,85,1,False,795
+127,118,Goldeen,Water,,320,45,67,60,35,50,63,1,False,577
+128,119,Seaking,Water,,450,80,92,65,65,80,68,1,False,832
+129,120,Staryu,Water,,340,30,45,55,70,55,85,1,False,595
+130,121,Starmie,Water,Psychic,520,60,75,85,100,85,115,1,False,925
+139,129,Magikarp,Water,,200,20,10,55,15,20,80,1,False,320
+140,130,Gyarados,Water,Flying,540,95,125,79,60,100,81,1,False,999
+141,130,GyaradosMega Gyarados,Water,Dark,640,95,155,109,70,130,81,1,False,1199
+142,131,Lapras,Water,Ice,535,130,85,80,85,95,60,1,False,1010
+145,134,Vaporeon,Water,,525,130,65,60,110,95,65,1,False,985
+172,158,Totodile,Water,,314,50,65,64,44,48,43,2,False,585
+173,159,Croconaw,Water,,405,65,80,80,59,63,58,2,False,752
+174,160,Feraligatr,Water,,530,85,105,100,79,83,78,2,False,982
+184,170,Chinchou,Water,Electric,330,75,38,38,56,56,67,2,False,593
+185,171,Lanturn,Water,Electric,460,125,58,58,76,76,67,2,False,853
+198,183,Marill,Water,Fairy,250,70,20,50,20,50,40,2,False,460
+199,184,Azumarill,Water,Fairy,420,100,50,80,60,80,50,2,False,790
+201,186,Politoed,Water,,500,90,75,75,90,100,70,2,False,930
+209,194,Wooper,Water,Ground,210,55,45,45,25,25,15,2,False,405
+210,195,Quagsire,Water,Ground,430,95,85,85,65,65,35,2,False,825
+214,199,Slowking,Water,Psychic,490,95,75,80,100,110,30,2,False,950
+227,211,Qwilfish,Water,Poison,430,65,95,75,55,55,85,2,False,775
+240,222,Corsola,Water,Rock,380,55,55,85,65,85,35,2,False,725
+241,223,Remoraid,Water,,300,35,65,35,65,35,65,2,False,535
+242,224,Octillery,Water,,480,75,105,75,105,75,45,2,False,915
+244,226,Mantine,Water,Flying,465,65,40,70,80,140,70,2,False,860
+249,230,Kingdra,Water,Dragon,540,75,95,95,95,95,85,2,False,995
+264,245,Suicune,Water,,580,100,75,115,90,115,85,2,True,1075
+271,251,Celebi,Psychic,Grass,600,100,100,100,100,100,100,2,False,1100
+280,258,Mudkip,Water,,310,50,70,50,50,50,40,3,False,580
+281,259,Marshtomp,Water,Ground,405,70,85,70,60,70,50,3,False,760
+282,260,Swampert,Water,Ground,535,100,110,90,85,90,60,3,False,1010
+283,260,SwampertMega Swampert,Water,Ground,635,100,150,110,95,110,70,3,False,1200
+293,270,Lotad,Water,Grass,220,40,30,30,40,50,30,3,False,410
+294,271,Lombre,Water,Grass,340,60,50,50,60,70,50,3,False,630
+295,272,Ludicolo,Water,Grass,480,80,70,70,90,100,70,3,False,890
+301,278,Wingull,Water,Flying,270,40,30,30,55,30,85,3,False,455
+302,279,Pelipper,Water,Flying,430,60,50,100,85,70,65,3,False,795
+347,318,Carvanha,Water,Dark,305,45,90,20,65,20,65,3,False,545
+348,319,Sharpedo,Water,Dark,460,70,120,40,95,40,95,3,False,825
+349,319,SharpedoMega Sharpedo,Water,Dark,560,70,140,70,110,65,105,3,False,1015
+350,320,Wailmer,Water,,400,130,70,35,70,35,60,3,False,740
+351,321,Wailord,Water,,500,170,90,45,90,45,60,3,False,940
+371,339,Barboach,Water,Ground,288,50,48,43,46,41,60,3,False,516
+372,340,Whiscash,Water,Ground,468,110,78,73,76,71,60,3,False,876
+373,341,Corphish,Water,,308,43,80,65,50,35,35,3,False,581
+374,342,Crawdaunt,Water,Dark,468,63,120,85,90,55,55,3,False,881
+377,345,Lileep,Rock,Grass,355,66,41,77,61,87,23,3,False,687
+378,346,Cradily,Rock,Grass,495,86,81,97,81,107,43,3,False,947
+381,349,Feebas,Water,,200,20,15,20,10,55,80,3,False,320
+382,350,Milotic,Water,,540,95,60,79,100,125,81,3,False,999
+401,366,Clamperl,Water,,345,35,64,85,74,55,32,3,False,658
+402,367,Huntail,Water,,485,55,104,105,94,75,52,3,False,918
+403,368,Gorebyss,Water,,485,55,84,105,114,75,52,3,False,918
+404,369,Relicanth,Water,Rock,485,100,90,130,45,65,55,3,False,915
+405,370,Luvdisc,Water,,330,43,30,55,40,65,97,3,False,563
+421,382,Kyogre,Water,,670,100,100,90,150,140,90,3,True,1250
+422,382,KyogrePrimal Kyogre,Water,,770,100,150,90,180,160,90,3,True,1450
+438,393,Piplup,Water,,314,53,51,53,61,56,40,4,False,588
+439,394,Prinplup,Water,,405,64,66,68,81,76,50,4,False,760
+440,395,Empoleon,Water,Steel,530,84,86,88,111,101,60,4,False,1000
+458,413,WormadamPlant Cloak,Bug,Grass,424,60,59,85,79,105,36,4,False,812
+465,418,Buizel,Water,,330,55,65,35,60,30,85,4,False,575
+466,419,Floatzel,Water,,495,85,105,55,85,50,115,4,False,875
+469,422,Shellos,Water,,325,76,48,48,57,62,34,4,False,616
+470,423,Gastrodon,Water,Ground,475,111,83,68,92,82,39,4,False,911
+506,456,Finneon,Water,,330,49,49,56,49,61,66,4,False,594
+507,457,Lumineon,Water,,460,69,69,76,69,86,91,4,False,829
+508,458,Mantyke,Water,Flying,345,45,20,50,60,120,50,4,False,640
+536,479,RotomMow Rotom,Electric,Grass,520,50,65,107,105,107,86,4,False,954
+541,484,Palkia,Water,Dragon,680,90,120,100,150,120,100,4,True,1260
+547,489,Phione,Water,,480,80,80,80,80,80,80,4,False,880
+548,490,Manaphy,Water,,600,100,100,100,100,100,100,4,False,1100
+560,501,Oshawott,Water,,308,55,55,45,63,45,45,5,False,571
+561,502,Dewott,Water,,413,75,75,60,83,60,60,5,False,766
+562,503,Samurott,Water,,528,95,100,85,108,70,70,5,False,986
+574,515,Panpour,Water,,316,50,53,48,53,48,64,5,False,568
+575,516,Simipour,Water,,498,75,98,63,98,63,101,5,False,895
+595,535,Tympole,Water,,294,50,50,40,50,40,64,5,False,524
+596,536,Palpitoad,Water,Ground,384,75,65,55,65,55,69,5,False,699
+597,537,Seismitoad,Water,Ground,509,105,95,75,85,75,74,5,False,944
+600,540,Sewaddle,Bug,Grass,310,45,53,70,40,60,42,5,False,578
+601,541,Swadloon,Bug,Grass,380,55,63,90,50,80,42,5,False,718
+602,542,Leavanny,Bug,Grass,500,75,103,80,70,80,92,5,False,908
+610,550,Basculin,Water,,460,70,92,65,80,55,98,5,False,822
+625,564,Tirtouga,Water,Rock,355,54,78,103,53,45,22,5,False,688
+626,565,Carracosta,Water,Rock,495,74,108,133,83,65,32,5,False,958
+641,580,Ducklett,Water,Flying,305,62,44,50,44,50,55,5,False,555
+642,581,Swanna,Water,Flying,473,75,87,63,87,63,98,5,False,848
+646,585,Deerling,Normal,Grass,335,60,60,50,40,50,75,5,False,595
+647,586,Sawsbuck,Normal,Grass,475,80,100,70,60,70,95,5,False,855
+653,592,Frillish,Water,Ghost,335,55,40,50,65,85,40,5,False,630
+654,593,Jellicent,Water,Ghost,480,100,60,70,85,105,60,5,False,900
+655,594,Alomomola,Water,,470,165,75,80,40,45,65,5,False,875
+713,647,KeldeoOrdinary Forme,Water,Fighting,580,91,72,90,129,90,108,5,False,1052
+714,647,KeldeoResolute Forme,Water,Fighting,580,91,72,90,129,90,108,5,False,1052
+724,656,Froakie,Water,,314,41,56,40,62,44,71,6,False,557
+725,657,Frogadier,Water,,405,54,63,52,83,56,97,6,False,713
+726,658,Greninja,Water,Dark,530,72,95,67,103,71,122,6,False,938
+762,692,Clauncher,Water,,330,50,53,62,58,63,44,6,False,616
+763,693,Clawitzer,Water,,500,71,73,88,120,89,59,6,False,941
+778,708,Phantump,Ghost,Grass,309,43,70,48,50,60,38,6,False,580
+779,709,Trevenant,Ghost,Grass,474,85,110,76,65,82,56,6,False,892
+780,710,PumpkabooAverage Size,Ghost,Grass,335,49,66,70,44,55,51,6,False,619
+781,710,PumpkabooSmall Size,Ghost,Grass,335,44,66,70,44,55,56,6,False,614
+782,710,PumpkabooLarge Size,Ghost,Grass,335,54,66,70,44,55,46,6,False,624
+783,710,PumpkabooSuper Size,Ghost,Grass,335,59,66,70,44,55,41,6,False,629
+784,711,GourgeistAverage Size,Ghost,Grass,494,65,90,122,58,75,84,6,False,904
+785,711,GourgeistSmall Size,Ghost,Grass,494,55,85,122,58,75,99,6,False,889
+786,711,GourgeistLarge Size,Ghost,Grass,494,75,95,122,58,75,69,6,False,919
+787,711,GourgeistSuper Size,Ghost,Grass,494,85,100,122,58,75,54,6,False,934
